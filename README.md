@@ -15,10 +15,17 @@ Di bagian screens digunakan untuk menampilkan isi dari konten aritcle yang isiny
 
 ![image](https://github.com/adamabiyuu/flutter_news_app/assets/148105217/df935898-e891-42ff-b2c6-d2859390eb6a) ![image](https://github.com/adamabiyuu/flutter_news_app/assets/148105217/094c6623-29d1-4973-92de-af4a1dac75c6) ![image](https://github.com/adamabiyuu/flutter_news_app/assets/148105217/322a61c7-bc61-4417-8018-d1303e75feb5)
 
+## widgets
+pada bagian widgets sebenarnya digunakan lebih ke fungsi yang nanti akan membantu memperindah ui.
+contohnya seperti class image_container.dart, Widget ini bertujuan untuk membuat kontainer gambar yang dapat disesuaikan dengan berbagai properti. Lalu ada class custom_tag.dart, Widget ini bertujuan untuk membuat sebuah elemen tampilan kustom yang disebut "tag" dengan latar belakang (background) yang dapat disesuaikan.
+Ataupun juga untuk membuat navigasi agar user bisa mengakses halaman yang berbeda dengan mudah. contohnya seperti class bottom_nav_bar.dart, Widget ini dimaksudkan untuk digunakan sebagai bilah navigasi bawah (bottom navigation bar) dalam sebuah aplikasi Flutter. Widget ini terdiri dari tiga item (Beranda, Cari, dan Profil) yang dapat diinteraksi oleh pengguna. 
 
 
 
+# flutter_news_app_ui
+A new Flutter project.
 
+# Getting Started
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
