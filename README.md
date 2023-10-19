@@ -4,8 +4,6 @@ Program yang menampilkan resep makanan untuk mendemonstrasikan asynchronous prog
 
 ![image](https://github.com/adamabiyuu/flutter_news_app/assets/148105217/c773860c-022b-4d99-a9ee-df62ccf5bb25)
 
-
-## Getting Started
 ## models
 
 Dari gambar terlihat bahwa bagian model terdiri dari satu file yaitu article_model.dart untuk isi/content dari data yang akan ditampilkan beserta detailnya. 
