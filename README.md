@@ -18,6 +18,7 @@ Di bagian screens digunakan untuk menampilkan isi dari konten aritcle yang isiny
 ## widgets
 pada bagian widgets sebenarnya digunakan lebih ke fungsi yang nanti akan membantu memperindah ui.
 contohnya seperti class image_container.dart, Widget ini bertujuan untuk membuat kontainer gambar yang dapat disesuaikan dengan berbagai properti. Lalu ada class custom_tag.dart, Widget ini bertujuan untuk membuat sebuah elemen tampilan kustom yang disebut "tag" dengan latar belakang (background) yang dapat disesuaikan.
+
 Ataupun juga untuk membuat navigasi agar user bisa mengakses halaman yang berbeda dengan mudah. contohnya seperti class bottom_nav_bar.dart, Widget ini dimaksudkan untuk digunakan sebagai bilah navigasi bawah (bottom navigation bar) dalam sebuah aplikasi Flutter. Widget ini terdiri dari tiga item (Beranda, Cari, dan Profil) yang dapat diinteraksi oleh pengguna. 
 
 
